@@ -16,3 +16,8 @@ main{
     width: 150px;
     margin: 15px;
 }
+
+#about p{
+    padding: 15px;
+    margin: 15px;
+}
