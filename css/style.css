@@ -10,3 +10,9 @@ background-color: lightgrey;
 main{
     margin-top: 75px;
 }
+
+#image{
+    height: 150px;
+    width: 150px;
+    margin: 15px;
+}
