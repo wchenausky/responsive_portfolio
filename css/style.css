@@ -21,3 +21,12 @@ main{
     padding: 15px;
     margin: 15px;
 }
+
+#portfolio img{
+height: 350px;
+width: 350px;
+} 
+
+main{
+    margin-top: 75px;
+}
