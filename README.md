@@ -18,3 +18,13 @@ In this exersise I have started to learn and put to use, Bootstrap. The purpose 
 
 ![about-me-iphone](assests/images/about-iphone.png)
 
+## Create a Responsive Portfolio Page
+
+1. Use Bootstrap to create the Portfolio web page.
+
+![portfolio-web-page](assests/images/portfolio-web-page.png)  
+
+![portfolio-ipad](assests/images/portfolio-ipad.png)  
+
+![portfolio-iphone](assests/images/portfolio-iphone.png)  
+
