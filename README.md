@@ -2,7 +2,20 @@
 
 In this exersise I have started to learn and put to use, Bootstrap. The purpose of this exercize is help me better understand the functions of Boot strap and it's almost limitless possibilites. I've learned things such as, rows and colums, how to use buttons, inserting pictures and linking individual pages and websites. I really enjoyed the process and can't wait to learn more as I progress in my coding career.
 
-## Table of Contents
+## Table of Contents  
+
+* [Add Bootstrap Reference Links](#Add-Bootstrap-Reference-Links)  
+
+* [Create a Responsive About Me Web Page](#Create-a-Responsive-About-Me-Web-Page)  
+
+* [Create a Responsive Portfolio Web Page](#Create-a-Responsive-Portfolio-Web-Page)  
+
+* [Create a Responsive Contact Web Page](#Create-a-Responsive-Contact-Web-Page)  
+
+* [Credits](#Credits)  
+
+* [License](#License) 
+
 
 ## Add Bootstrap Reference Links
 
