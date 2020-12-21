@@ -12,7 +12,7 @@ In this exersise I have started to learn and put to use, Bootstrap. The purpose 
 
 1. Use Bootsrap to create the About me web page.
 
-![about-me-web-page](assests/images/about-me-web-page.png)  
+![about-me-web-page](assests/images/about-web-page.png)  
 
 ![about-me-ipad](assests/images/about-ipad.png)  
 
