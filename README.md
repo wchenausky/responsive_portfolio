@@ -51,6 +51,10 @@ In this exersise I have started to learn and put to use, Bootstrap. The purpose 
 
 ![contact-iphone](assests/images/contact-iphone.png)
 
+* (https://github.com/wchenausky/responsive_portfolio)
+
+* (https://wchenausky.github.io/responsive_portfolio/index.html)
+
 ## Credits
 
 * Maris NeSmith (https://github.com/marisanesmith)  
