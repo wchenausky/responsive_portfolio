@@ -37,3 +37,15 @@ In this exersise I have started to learn and put to use, Bootstrap. The purpose 
 ![contact-ipad](assests/images/contact-ipad.png)  
 
 ![contact-iphone](assests/images/contact-iphone.png)
+
+## Credits
+
+* Maris NeSmith (https://github.com/marisanesmith)  
+
+* Ethan Dutcher (https://github.com/edutcher)
+
+* John Pendergrass (https://github.com/JohnWP8253)
+
+## License
+
+![GitHub](https://img.shields.io/github/license/wchenausky/responsive_portfolio)
