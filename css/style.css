@@ -30,3 +30,16 @@ width: 350px;
 main{
     margin-top: 75px;
 }
+
+.footer{
+    background-color:#666666!important;
+    color: white;
+    text-align: center;
+}
+.mt-auto, .my-auto {
+    margin-top: auto!important;
+}
+.pb-3, .py-3 {
+    padding-bottom: 1rem!important;
+    padding-top: 1rem!important;
+}
