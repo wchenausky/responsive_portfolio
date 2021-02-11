@@ -18,6 +18,13 @@ h1{
 .navbar{
     background-color:#404963;
 }
+nav{
+    background-color:#404963;
+}
+
+.container{
+    background-color: #404963;
+}
 
 
 .card{
@@ -38,6 +45,7 @@ main{
 #about p{
     padding: 15px;
     margin: 15px;
+    color: white;
 }
 
 main{
