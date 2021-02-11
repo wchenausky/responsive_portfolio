@@ -1,10 +1,28 @@
 body{
-background-color: lightgrey;
+background-color:#e5ccc0
 }
 
-.container{
-    background-color: white;
-    margin: 15px;
+.container-fluid{
+    background-color:#404963;
+}
+
+h1{
+    color:white;
+}
+
+.btn{
+    background-color: #94a2b4;
+    color: white;
+}
+
+.navbar{
+    background-color:#404963;
+}
+
+
+.card{
+    margin-left: auto;
+    margin-right: auto;
 }
 
 main{
@@ -21,11 +39,6 @@ main{
     padding: 15px;
     margin: 15px;
 }
-
-#portfolio img{
-height: 350px;
-width: 350px;
-} 
 
 main{
     margin-top: 75px;
