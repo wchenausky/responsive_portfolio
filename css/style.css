@@ -1,8 +1,13 @@
 body{
-position: relative;
-background-image:url('http://getwallpapers.com/wallpaper/full/c/4/7/489350.jpg');
-background-repeat: no-repeat;
+background:url('http://getwallpapers.com/wallpaper/full/c/4/7/489350.jpg') no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size:cover;
+background-size: cover;
+
+/* background-repeat: no-repeat;
 background-size: 100%;
+position: relative; */
 }
 
 .container-fluid{
@@ -64,4 +69,8 @@ h3{
 
 h5{
     color: white;
+}
+
+.navbar-toggler-icon{
+    color:white!important;
 }
