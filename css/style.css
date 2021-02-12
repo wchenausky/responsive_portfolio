@@ -1,5 +1,9 @@
 body{
-background-color:#e5ccc0
+position: relative;
+background-image:url("http://getwallpapers.com/wallpaper/full/c/4/7/489350.jpg");
+background-repeat: no-repeat;
+width: 100%;
+height: 100%;
 }
 
 .container-fluid{
@@ -18,14 +22,11 @@ h1{
 .navbar{
     background-color:#404963;
 }
-nav{
-    background-color:#404963;
-}
+
 
 .container{
     background-color: #404963;
 }
-
 
 .card{
     margin-left: auto;
@@ -37,8 +38,8 @@ main{
 }
 
 #image{
-    height: 150px;
-    width: 150px;
+    height: 200px;
+    width: 200px;
     margin: 15px;
 }
 
@@ -53,7 +54,15 @@ main{
 }
 
 .footer{
-    background-color:#666666!important;
+    background-color:#404963!important;
     color: white;
     text-align: center;
+}
+
+h3{
+    color: white;
+}
+
+h5{
+    color: white;
 }
