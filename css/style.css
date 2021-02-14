@@ -5,13 +5,11 @@ background:url('http://getwallpapers.com/wallpaper/full/c/4/7/489350.jpg') no-re
 -o-background-size:cover;
 background-size: cover;
 
-/* background-repeat: no-repeat;
-background-size: 100%;
-position: relative; */
 }
 
 .container-fluid{
     background-color:#404963;
+    /* background-image: linear-gradient( 112.1deg,  rgba(32,38,57,1) 11.4%, rgba(63,76,119,1) 70.2% ); */
 }
 
 h1{
@@ -26,16 +24,19 @@ h1{
 
 .navbar{
     background-color:#404963;
+    /* background-image: linear-gradient( 112.1deg,  rgba(32,38,57,1) 11.4%, rgba(63,76,119,1) 70.2% ); */
 }
 
 
 .container{
     background-color: #404963;
+    /* background-image: linear-gradient( 112.1deg,  rgba(32,38,57,1) 11.4%, rgba(63,76,119,1) 70.2% ); */
 }
 
 .card{
     margin-left: auto;
     margin-right: auto;
+   
 }
 
 main{
@@ -60,6 +61,7 @@ main{
 
 .footer{
     background-color:#404963!important;
+    /* background-image: linear-gradient( 112.1deg,  rgba(32,38,57,1) 11.4%, rgba(63,76,119,1) 70.2% )!important; */
     color: white;
     text-align: center;
 }

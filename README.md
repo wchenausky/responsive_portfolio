@@ -1,6 +1,6 @@
-# Responsive Portfolio
+# Responsive Portfolio Updated
 
-In this exersise I have started to learn and put to use, Bootstrap. The purpose of this exercize is help me better understand the functions of Boot strap and it's almost limitless possibilites. I've learned things such as, rows and colums, how to use buttons, inserting pictures and linking individual pages and websites. I really enjoyed the process and can't wait to learn more as I progress in my coding career.
+This is my updated Portfolio with links to my GitHub, Linked In, and Indeed profiles. Along with updated color scheme, and links showcasing the projects and homework assignments that I've been working on over the last few months. 
 
 ## Table of Contents  
 
@@ -25,31 +25,45 @@ In this exersise I have started to learn and put to use, Bootstrap. The purpose 
 
 1. Use Bootsrap to create the About me web page.
 
-![about-me-web-page](assests/images/about-web-page.png)  
+### Desktop
+![about me desktop](assests/images/about-me-desktop.png)  
 
-![about-me-ipad](assests/images/about-ipad.png)  
+### Tablet  
+![about me tablet](assests/images/about-me-tablet.png)  
 
-![about-me-iphone](assests/images/about-iphone.png)
+### Phone  
+![about me phone](assests/images/about-me-phone.png)
+
+
 
 ## Create a Responsive Portfolio Web Page
 
-1. Use Bootstrap to create the Portfolio web page.
+1. Use Bootstrap to create the Portfolio web page with updated projects and homework assinments.
 
-![portfolio-web-page](assests/images/portfolio-web-page.png)  
+### Desktop
+![portfolio desktop](assests/images/portfolio-desktop.png)  
 
-![portfolio-ipad](assests/images/portfolio-ipad.png)  
+### Tablet  
+![potfolio tablet](assests/images/portfolio-tablet.png)  
 
-![portfolio-iphone](assests/images/portfolio-iphone.png)  
+### Phone  
+![portfolio phone](assests/images/portfolio-phone.png)
+
+
 
 ## Create a Responsive Contact Web Page
 
-1. Use Bootstrap to create the Contact web page.
+1. Use Bootstrap to create the Contact web page with updated Linked in, GitHub and Ineed Resume.
 
-![contact-web-page](assests/images/contact-web-page.png)  
+### Desktop
+![contact desktop](assests/images/contact-desktop.png) 
 
-![contact-ipad](assests/images/contact-ipad.png)  
+### Tablet  
+![contact tablet](assests/images/contact-tablet.png)  
 
-![contact-iphone](assests/images/contact-iphone.png)
+### Phone  
+![contact phone](assests/images/contact-phone.png)
+
 
 * (https://github.com/wchenausky/responsive_portfolio)
 
@@ -58,8 +72,6 @@ In this exersise I have started to learn and put to use, Bootstrap. The purpose 
 ## Credits
 
 * Maris NeSmith (https://github.com/marisanesmith)  
-
-* Ethan Dutcher (https://github.com/edutcher)
 
 * John Pendergrass (https://github.com/JohnWP8253)
 
