@@ -59,10 +59,10 @@ This is my updated Portfolio with links to my GitHub, Linked In, and Indeed prof
 ![contact desktop](assests/images/contact-desktop.png) 
 
 ### Tablet  
-![contact tablet](assests/images/contact-tablet.png)  
+![contact tablet](assests/images/contact-ipad.png)  
 
 ### Phone  
-![contact phone](assests/images/contact-phone.png)
+![contact phone](assests/images/contact-iphone.png)
 
 
 * (https://github.com/wchenausky/responsive_portfolio)
